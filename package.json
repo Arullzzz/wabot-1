@@ -1,5 +1,5 @@
 {
-  "name": "wabot-aq",
+  "name": "ArullBotz",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -19,16 +19,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/LitRHap/wabot",
+  "homepage": "https://github.com/Arullzzz/wabot",
   "author": {
     "name": "LitRHap"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LitRHap/wabot.git"
+    "url": "git+https://github.com/Arullzzz/wabot.git"
   },
   "bugs": {
-    "url": "https://github.com/LitRHap/wabot/issues"
+    "url": "https://github.com/Arullzzz/wabot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
